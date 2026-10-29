@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyses employee salary data using Python, Pandas, Matplotlib, and Jupyter Notebook.
+This project analyses employee salaries and visualizes department-wise salary averages.
 
 ## Project Structure
 
