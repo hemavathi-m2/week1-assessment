@@ -1,3 +1,6 @@
-# Week 1 Assessment
+# Week 1 Assessment — Employee Data Analysis
 
-This project studies employee salaries and city-wise employee distribution.
+This project analyses employee salaries and visualizes department-wise salary averages.
+
+This project also examines employee distribution across cities..
+
