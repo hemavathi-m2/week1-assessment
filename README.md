@@ -1,3 +1,3 @@
 # Week 1 Assessment
 
-Employee data analysis using Python, Pandas, and Jupyter Notebook.
+This project studies employee salaries and city-wise employee distribution.
